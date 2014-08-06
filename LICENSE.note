@@ -1,0 +1,17 @@
+This file is intended to clarify ownership and copyright: where
+possible individual files also carry brief copyright notices.
+
+Files src/triangle.c, src/triangle.h and inst/extdata/A.poly are
+"freely available, copyrighted by the author and may not be sold or
+included in commercial products without a license." See file
+src/triangle.c for details and http://www.cs.cmu.edu/~quake/triangle.html.
+
+All other files in this package are released under the Creative
+Commons Attribution 4.0 International (CC BY 4.0).
+
+Hence, this package is released under a Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
+license. This license provides an umbrella to the different licenses
+of the files included in the package. See
+http://creativecommons.org/licenses/by-nc-sa/4.0/ for details about
+this license.
