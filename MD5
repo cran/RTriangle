@@ -1,10 +1,10 @@
 51c090f8b8cb2787b5ecf7fcf3521e3c *ChangeLog
-c93b838af94f46aeaf9742d1b377507d *DESCRIPTION
+56d5b69c94df6bd65786c9cf7cdd20f0 *DESCRIPTION
 80253f8bfc19b99665e515a4f7329b21 *LICENSE.note
 7921e60def1123a261ba036cbbf1737f *NAMESPACE
-5b8c942e21f1f298fe1d4539fe895cfc *NEWS
+7a86f56add0af2ed8b7d4ede32c0350e *NEWS
 05580a741208fee49ae301173ab8955c *R/triangle-package.R
-0ccee763b68ae850bc23bfcfc87224c1 *R/triangle.R
+ac3c4441d1c7be912ebc3f58bfbd284e *R/triangle.R
 28cfee4c82588ae341665f95611edd7c *inst/CITATION
 c4620d87e5a18733ce552ed79d2cc9d1 *inst/extdata/A.poly
 f26643da248a9bed11f31fcd1ff04295 *man/RTriangle-package.Rd
@@ -23,4 +23,4 @@ af4aee20ca926cc1e439994530c964df *tests/attributes.Rout.save
 5a138854bc43ba7adc79fd37dc5d8b89 *tests/basic.R
 9f6915e7f289754be472fb4b3961aee6 *tests/basic.Rout.save
 9964d297305cf898fde01925fbb9a00f *tests/testthat.R
-0cf9101314522df7a3d771fabdbb548d *tests/testthat/test-triangulate.R
+41ae9f7351bfb2d9013d675ce4820dcd *tests/testthat/test-triangulate.R
