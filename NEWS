@@ -1,9 +1,31 @@
+CHANGES IN VERSION 1.6-0.11  - Released 2022-11-13
+
+BUG FIX
+
+* Fix for Issue #12: RTriangle runs out of memory
+  https://github.com/davidcsterratt/RTriangle/issues/12
+  Thanks to Inma Soldado Magraner for reporting a problem in Retistruct that
+  leads to this error.
+
+* Fix for Issue #18: Function declaration without prototype is deprecated
+  https://github.com/davidcsterratt/RTriangle/issues/18
+  Thanks to the CRAN maintainers for reporting this.
+  Updated code produces no "declaration without prototype" compilation errors
+  when compiled with gcc-11 and the -std=gnu99 -Wstrict-prototypes flags
+
+CODE IMPROVEMENT
+
+* Fix for Issue #7: Potential anyDuplicated speed-up for pslg 
+  https://github.com/davidcsterratt/RTriangle/issues/7
+  Thanks to Michael Sumner for suggesting this improvement.
+
 CHANGES IN VERSION 1.6-0.10  - Released 2018-01-30
 
-BUG FIXES
+BUG FIX
 
 * Fix for Issue #6: Array overrruns
   https://github.com/davidcsterratt/RTriangle/issues/6
+  Thanks to Brian Ripley for reporting the bug.
 
 CHANGES IN VERSION 1.6-0.9  - Released 2017-07-13
 
