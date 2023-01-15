@@ -1,8 +1,8 @@
 51c090f8b8cb2787b5ecf7fcf3521e3c *ChangeLog
-2a21aa919b881805bbbc350c3f7465e5 *DESCRIPTION
+46bdba74610b6a5c946a79b9a13b512a *DESCRIPTION
 80253f8bfc19b99665e515a4f7329b21 *LICENSE.note
 7921e60def1123a261ba036cbbf1737f *NAMESPACE
-fb8a332dc3aba2d46635393c06556f46 *NEWS
+2a035aca0836361ab02306d95d239888 *NEWS
 05580a741208fee49ae301173ab8955c *R/triangle-package.R
 8278c85afe8cf02e00e59dd9f60be996 *R/triangle.R
 28cfee4c82588ae341665f95611edd7c *inst/CITATION
@@ -18,7 +18,7 @@ fd534a33f2a9194954d5b16f365cd05e *man/triangulate.Rd
 45262ef682036e2cbb9d1606f613e62e *src/Makevars
 5b2da0be03a709e896689f111c716faf *src/RTriangle.h
 ba221f6c3c8a2f4bf420705e9c1e71f4 *src/RTriangle_init.c
-1efdc4d631aa5d4e1cff3535e4fdd241 *src/interface.c
+93567f7c77bd56fd6735cbb44cc984ca *src/interface.c
 e2852d23cff052435fba36987ad2939c *src/triangle.c
 4022ff7b3e9cb8da7e4d2b8699499fee *src/triangle.h
 d616d1a297865b224673cbcafdc45bac *tests/attributes.R

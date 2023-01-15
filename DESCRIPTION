@@ -14,10 +14,10 @@ Description: This is a port of Jonathan Shewchuk's Triangle library to
     Delaunay triangulations, Voronoi diagrams, and high-quality
     triangular meshes. The latter can be generated with no small or
     large angles, and are thus suitable for finite element analysis."
-Version: 1.6-0.11
+Version: 1.6-0.12
 URL: https://github.com/davidcsterratt/RTriangle,
         http://www.cs.cmu.edu/~quake/triangle.html
-Date: 2022-11-13
+Date: 2023-01-14
 Depends: R (>= 3.0.0)
 RoxygenNote: 6.1.1
 Suggests: testthat, geometry
@@ -25,11 +25,11 @@ BugReports: https://github.com/davidcsterratt/RTriangle/issues
 Encoding: UTF-8
 Language: en-GB
 NeedsCompilation: yes
-Packaged: 2022-11-13 12:01:27 UTC; dcs
+Packaged: 2023-01-15 15:50:56 UTC; dcs
 Author: Jonathan Richard Shewchuk [ctb, cph],
   David C. Sterratt [cph, aut, cre],
   Elias Pipping [ctb],
   Michael Sumner [ctb]
 Maintainer: David C. Sterratt <david.c.sterratt@ed.ac.uk>
 Repository: CRAN
-Date/Publication: 2022-11-15 22:40:15 UTC
+Date/Publication: 2023-01-15 22:40:07 UTC
