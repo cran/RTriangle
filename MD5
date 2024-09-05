@@ -1,8 +1,8 @@
 51c090f8b8cb2787b5ecf7fcf3521e3c *ChangeLog
-4660f9b7d0d721c3896742b57b887e42 *DESCRIPTION
+1c67b0e60dfd1f76827eaa56e485c25e *DESCRIPTION
 80253f8bfc19b99665e515a4f7329b21 *LICENSE.note
 7921e60def1123a261ba036cbbf1737f *NAMESPACE
-02ff8477cf31ba3355f26ecac8b95278 *NEWS
+02d7ace908435fbc2a6a18563af9a5ae *NEWS
 ec16eaf2a077b6a8bab994c1a80b3e72 *R/triangle-package.R
 df65421acb49e2021461903ebda396be *R/triangle.R
 b141062fc2c98c9de9724162066f44cd *inst/CITATION
@@ -15,11 +15,11 @@ aa51b707c37af8d36f08f615c4907cda *man/plot.triangulation.Rd
 cdfa69046c10a7f3c3b92267ee6884be *man/pslg.Rd
 274c1f5138137c62d1a53323143e1f5b *man/read.pslg.Rd
 fc99a90b534f1226fc95a4a46d70d27e *man/triangulate.Rd
-45262ef682036e2cbb9d1606f613e62e *src/Makevars
-5b2da0be03a709e896689f111c716faf *src/RTriangle.h
+aeb964dd7e00e914793c9a709628155d *src/Makevars
+071dda374a2fccdc5de3f9310f9c5ded *src/RTriangle.h
 ba221f6c3c8a2f4bf420705e9c1e71f4 *src/RTriangle_init.c
-93567f7c77bd56fd6735cbb44cc984ca *src/interface.c
-7f39395506ae3eba8d9ac45dc21830c3 *src/triangle.c
+77fc415dce7c2ff78825ea3d70112f6f *src/interface.c
+574ee448aaf23a9ccdb5dbfe8b6b69ee *src/triangle.c
 4022ff7b3e9cb8da7e4d2b8699499fee *src/triangle.h
 d616d1a297865b224673cbcafdc45bac *tests/attributes.R
 f80d5fe0ef7092a416e5ce5f8601a91b *tests/attributes.Rout.save
