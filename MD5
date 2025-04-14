@@ -1,13 +1,17 @@
 51c090f8b8cb2787b5ecf7fcf3521e3c *ChangeLog
-1c67b0e60dfd1f76827eaa56e485c25e *DESCRIPTION
+22f3b36d8ed5f00c118828354589db9d *DESCRIPTION
 80253f8bfc19b99665e515a4f7329b21 *LICENSE.note
 7921e60def1123a261ba036cbbf1737f *NAMESPACE
-02d7ace908435fbc2a6a18563af9a5ae *NEWS
+399a1336a90872923bdef5aa688cf499 *NEWS
 ec16eaf2a077b6a8bab994c1a80b3e72 *R/triangle-package.R
 df65421acb49e2021461903ebda396be *R/triangle.R
 b141062fc2c98c9de9724162066f44cd *inst/CITATION
 c4620d87e5a18733ce552ed79d2cc9d1 *inst/extdata/A.poly
 94e7a4fb467d6c6698adc6bdf0533686 *inst/extdata/inf-steiner.RData
+13a84654b68928e3de2271a7d430843d *inst/extdata/out1gcc.Rdata
+04fb049ef97e718e8b14c9950d8447ac *inst/extdata/out2gcc.Rdata
+df2287fdbfc165dd53afc56a8cbe7da4 *inst/extdata/out3gcc.Rdata
+613fee2407fcabca13490ceeec4c772e *inst/extdata/out4gcc.Rdata
 6fac6a0ac8b2fc27f1e707aae12b6385 *inst/extdata/win-i386-crash.Rdata
 f52adcd1d41d24304efd9136390c1de0 *man/RTriangle-package.Rd
 5d76599d8f48bf1b92ffa16126a4b78a *man/plot.pslg.Rd
@@ -16,7 +20,7 @@ cdfa69046c10a7f3c3b92267ee6884be *man/pslg.Rd
 274c1f5138137c62d1a53323143e1f5b *man/read.pslg.Rd
 fc99a90b534f1226fc95a4a46d70d27e *man/triangulate.Rd
 aeb964dd7e00e914793c9a709628155d *src/Makevars
-071dda374a2fccdc5de3f9310f9c5ded *src/RTriangle.h
+2fe32f5ca058a0af5c58cb6e8f7d0abf *src/RTriangle.h
 ba221f6c3c8a2f4bf420705e9c1e71f4 *src/RTriangle_init.c
 77fc415dce7c2ff78825ea3d70112f6f *src/interface.c
 574ee448aaf23a9ccdb5dbfe8b6b69ee *src/triangle.c
@@ -26,4 +30,4 @@ f80d5fe0ef7092a416e5ce5f8601a91b *tests/attributes.Rout.save
 5a138854bc43ba7adc79fd37dc5d8b89 *tests/basic.R
 7704a223bf3b6323830bb5eea2af1c92 *tests/basic.Rout.save
 9964d297305cf898fde01925fbb9a00f *tests/testthat.R
-f1cb23f6c83d8f77c177943eb8fac356 *tests/testthat/test-triangulate.R
+adc135412a921d7bf6e74b86d49b8fb1 *tests/testthat/test-triangulate.R
